@@ -1,28 +1,26 @@
 # Hackathon_2.0_Team_Template
-Ambassador's name:
+
 Country:
 City:
-LinkedIn:
 
-Mentor's name:
-LinkedIn:
-Expertise:
+Ambassadors: 
+1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
+2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
+3. ...
 
-Captain's name:
-LinkedIn
-Expertise
+Mentors:
+1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
+2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
+3. ...
 
-Participant 1's name:
-LinkedIn:
-Expertise:
-Experience (years):
+# Teams
 
-Participant 2's name:
-LinkedIn:
-Expertise:
-Experience (years):
+Team 1 (team name if already has)
 
-Participant 3's name:
-LinkedIn:
-Expertise:
-Experience (years):
+Captain
+1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
+
+Participants
+1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
+2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
+3. ...
