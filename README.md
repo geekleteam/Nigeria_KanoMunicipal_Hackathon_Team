@@ -1,7 +1,7 @@
-# Hackathon_2.0_Team_Template
+## Hackathon_2.0_Team_Template
 
-*Country:*
-*City:*
+**Country:**
+***City:***
 
 Ambassadors: 
 1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
