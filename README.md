@@ -1,35 +1,15 @@
-## Hackathon_2.0_Team_Template
+*Thank you for joining the Geekle AI Hackathon 2.0.
+We look forward to your contributions and the innovations that will emerge from this event. Please follow the instructions below to ensure a streamlined and efficient process.*
 
-***Country, City:***
+Instructions
 
-Ambassadors: 
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
-3. ...
+1. Team List
+Add participants to the "Team List" document.
 
-Mentors:
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
-3. ...
+2. Sponsors and Partners
+Add potential sponsors (who typically support similar events in your region) and venue partners to the "Sponsors and Partners" document.
 
-# Teams
+3. Ideation
+The "Ideation" document will be utilized during the Ideation Stage of the hackathon.
 
-****Team 1 (team name if already has)****
-
-Captain
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-
-Participants
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
-3. ...
-
-****Team 2 (team name if already has)****
-
-Captain
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-
-Participants
-1. First name, Last name; Linkedin link ; years of experience; expertise1, expertise2, ...
-2. (example) Ed Nedin, https://www.linkedin.com/in/ednedin/ , 10 years, community builder, frontend, product owner
-3. ...
+We are excited to collaborate with you and look forward to seeing your ideas come to life.
