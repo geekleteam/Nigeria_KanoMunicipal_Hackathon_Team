@@ -3,13 +3,10 @@ We look forward to your contributions and the innovations that will emerge from 
 
 Instructions
 
-1. Team List
-Add participants to the "Team List" document.
+1. Add participants to the "Team List" document.
 
-2. Sponsors and Partners
-Add potential sponsors (who typically support similar events in your region) and venue partners to the "Sponsors and Partners" document.
+2. Add potential sponsors (who typically support similar events in your region) and venue partners to the "Sponsors and Partners" document.
 
-3. Ideation
-The "Ideation" document will be utilized during the Ideation Stage of the hackathon.
+3. The "Ideation" document will be utilized during the Ideation Stage of the hackathon.
 
 We are excited to collaborate with you and look forward to seeing your ideas come to life.
